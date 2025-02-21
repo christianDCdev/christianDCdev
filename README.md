@@ -3,12 +3,18 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation]()
+  - [osTicket: Prerequisites and Installation](https://github.com/christianDCdev/osTicket-prereqs)
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
   - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+
+ <h2>⚛️ Web Development Projects:</h2>
+ 
+  - [Full-stack: Restaurant Reservation Application](https://github.com/christianDCdev/restaurant-reservation)
+  - [Node.js, Express.js, Knex.js, PostgreSQL: Movie Information Database](https://github.com/christianDCdev/we-love-movies-backend)
+  - [ReactJS: Flashcard Application](https://github.com/christianDCdev/flashcard-react-app)
 
 <h2>🤳Connect with me:</h2>
 
