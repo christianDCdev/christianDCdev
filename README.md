@@ -13,7 +13,7 @@
  <h2>⚛️ Web Development Projects:</h2>
  
   - [Full-stack: Restaurant Reservation Application](https://github.com/christianDCdev/restaurant-reservation)
-  - [Node.js, Express.js, Knex.js, PostgreSQL: Movie Information Database](https://github.com/christianDCdev/we-love-movies-backend)
+  - [Node.js | Express.js | Knex.js | PostgreSQL: Movie Information Database](https://github.com/christianDCdev/we-love-movies-backend)
   - [ReactJS: Flashcard Application](https://github.com/christianDCdev/flashcard-react-app)
 
 <h2>🤳Connect with me:</h2>
