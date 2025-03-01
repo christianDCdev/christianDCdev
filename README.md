@@ -4,7 +4,7 @@
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/christianDCdev/osTicket-prereqs)
-  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Post-Installation Configuration](https://github.com/christianDCdev/osTicket-post-install-config)
   - [osTicket: Implementing a Help Desk Ticketing System and Troubleshooting (Ticket Lifecycle Examples)]()
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs]()
