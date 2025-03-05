@@ -8,7 +8,7 @@
   - [osTicket: Implementing a Help Desk Ticketing System (Ticket Lifecycle Examples)](https://github.com/christianDCdev/osTicket-ticket-lifecycle)
 
 - <b>Active Directory</b>
-  - [Preparing Active Directory Infrastructure with Azure VM's]()
+  - [Setup for Active Directory Infrastructure with Azure VM's](https://github.com/christianDCdev/active-directory-setup)
   - [Active Directory Deployment and Configuration]()
   - [Generating Users in Active Directory]()
 
