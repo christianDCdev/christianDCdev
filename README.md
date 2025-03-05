@@ -9,8 +9,8 @@
 
 - <b>Active Directory</b>
   - [Setup for Active Directory Infrastructure with Azure VM's](https://github.com/christianDCdev/active-directory-setup)
-  - [Active Directory Deployment and Configuration]()
-  - [Generating Users in Active Directory]()
+  - [Active Directory Deployment and Configuration](https://github.com/christianDCdev/ad-deploy-and-config)
+  - [Generating Users in Active Directory](https://github.com/christianDCdev/ad-user-generation)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/christianDCdev/azure-network-protocols/tree/main)
