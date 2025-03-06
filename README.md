@@ -8,9 +8,10 @@
   - [osTicket: Implementing a Help Desk Ticketing System (Ticket Lifecycle Examples)](https://github.com/christianDCdev/osTicket-ticket-lifecycle)
 
 - <b>Active Directory</b>
-  - [Setup for Active Directory Infrastructure with Azure VM's](https://github.com/christianDCdev/active-directory-setup)
-  - [Active Directory Deployment and Configuration](https://github.com/christianDCdev/ad-deploy-and-config)
-  - [Generating Users in Active Directory](https://github.com/christianDCdev/ad-user-generation)
+  - [Active Directory: Setup with Azure Virtual Machines](https://github.com/christianDCdev/active-directory-setup)
+  - [Active Directory: Deployment and Configuration](https://github.com/christianDCdev/ad-deploy-and-config)
+  - [Active Directory: Generating Users](https://github.com/christianDCdev/ad-user-generation)
+  - [Active Directory: Practical Scenarios](https://github.com/christianDCdev/ad-practical-scenarios)
 
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/christianDCdev/azure-network-protocols/tree/main)
