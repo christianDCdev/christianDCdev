@@ -16,7 +16,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/christianDCdev/azure-network-protocols/tree/main)
 
- <h2>⚛️ Web Development Projects:</h2>
+ <h2>⚛️ Software Development Projects:</h2>
  
   - [Full-stack: Restaurant Reservation Application](https://github.com/christianDCdev/restaurant-reservation)
   - [Node.js | Express.js | Knex.js | PostgreSQL: Movie Information Database](https://github.com/christianDCdev/we-love-movies-backend)
